@@ -1,0 +1,2 @@
+# Ignore the binary files created after compilation
+*.out
